@@ -1,0 +1,6 @@
+
+## GitHub Reflection Chapter 2
+
+#### What happens when you initialize a repository? Why do you need to do it?
+
+.git metadata file is created.  Because it is a necessary precondition to `git add`
