@@ -4,3 +4,7 @@
 #### What happens when you initialize a repository? Why do you need to do it?
 
 .git metadata file is created.  Because it is a necessary precondition to `git add`
+
+#### How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It gives you a chance to make sure you have all the directories you need ready to commit and to run some final tests.
