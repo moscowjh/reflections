@@ -8,3 +8,7 @@
 #### How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It gives you a chance to make sure you have all the directories you need ready to commit and to run some final tests.
+
+####How can you use the staging area to make sure you have one commit per logical change?
+
+You can run `git diff` to make verify that you haven't added more changes.
