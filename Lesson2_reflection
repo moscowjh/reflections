@@ -23,3 +23,7 @@ Branches visualize the fact that changes/commits to specific branch are not in a
 #### What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Changes are combined in one file. Branches are brought back together and one is deleted.
+
+#### What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic is more algorithimic so less prone to human error. Manually is important in instances where a machine can't distinguish between kinds of changes to similar code.
