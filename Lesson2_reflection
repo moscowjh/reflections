@@ -19,3 +19,7 @@ Trying out a new experimental featue when bug-fixing and other maintenance happe
 
 #### How do the diagrams help you visualize the branch structure?
 Branches visualize the fact that changes/commits to specific branch are not in another branch (for instance, master).  This reminds you that the branches need to be merged in order to combine changes. Also provides a very good representation of what "unreachable" means.
+
+#### What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Changes are combined in one file. Branches are brought back together and one is deleted.
