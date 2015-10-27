@@ -17,3 +17,7 @@ Enables you to work on merging and reconciling changes even if you are offline.
 #### How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I don't think GIT itself has collaboration features. Without pull requests it would be much harder to have others review your code. They would probably have to be done manually.
+
+#### When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Though it makes the workflow much more complicated, making changes in a separate branch (and merging others' changes into that branch) enables the developer to isolate changes to one discreet function or bug.  This makes code reviews and testing much easier.
